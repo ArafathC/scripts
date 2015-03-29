@@ -1,4 +1,4 @@
-# Cloudwick Deployment Scripts
+#Deployment Scripts
 
 ## DSE Installer (dse_install.sh)
 
